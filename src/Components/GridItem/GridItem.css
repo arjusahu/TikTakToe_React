@@ -1,0 +1,9 @@
+.item{
+    width:100px;
+    height:100px;
+    background-color: slategrey;
+    margin:2px;
+    font-size: 40px;
+    align-content: center;
+    justify-content: center;
+}
